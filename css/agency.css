@@ -175,7 +175,7 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
-  color: blue;
+  color: darkblue;
   background-image: url("../img/bannerexample.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
