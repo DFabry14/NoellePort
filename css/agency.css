@@ -142,7 +142,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #f5aa2e;
 }
 
 @media (min-width: 992px) {
@@ -165,7 +165,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #212529;
+    background-color: #2c3d4c;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
